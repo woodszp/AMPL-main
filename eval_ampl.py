@@ -1,3 +1,6 @@
+## Acknowledgement
+# This repo is developed based on [HCTransformers](https://github.com/StomachCold/HCTransformers), [iBOT](https://github.com/bytedance/ibot), [DINO](https://github.com/facebookresearch/dino), and [SMKD](https://github.com/HL-hanlin/SMKD). Thanks for their wonderful codebases.
+
 import os
 import sys
 import h5py
