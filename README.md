@@ -2,7 +2,6 @@
 
 This is the PyTorch implementation of ["AMPL: An Adaptive Meta-Prompt Learner for Few-Shot Image Classification"](). 
 
-- [ ] The code will be updated soon.
 
 
 
