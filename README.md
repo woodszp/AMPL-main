@@ -171,11 +171,10 @@ python eval_ampl.py --server mini --num_shots 5 --ckp_path /root/autodl-nas/FSVI
 
 ## Citation
 ```BibTeX
-@inproceedings{,
+@artile{,
       title={AMPL: An Adaptive Meta-Prompt Learner for Few-Shot Image Classification}, 
-      author={},
-      booktitle={},
-      year={},
-      pages={},
+      author={Zhiping Wu, Lian Huai, Tong Liu, Zeyu Shangguan, Lei Wang, Jing Huo, Wenbin Li*, Yang Gao, Xingqun Jiang.},
+      journal={Neural Networks},
+      year={2025}
 }
 ```
